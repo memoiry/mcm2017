@@ -1,2 +1,2 @@
-# mcm2017
-Rep for mcm2017
+# MCM2017
+Our code for the Mathematical Contest in Modeling 2017
